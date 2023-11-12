@@ -2,7 +2,7 @@
 
 "Correction" des exercices de la conférence Asynconf 2021.
 
-Vous pouvez trouver le sujet dans le dossier ``assets``` ainsi que le fichier JSON pour l'exercice 4
+Vous pouvez trouver le sujet dans le dossier ```assets``` ainsi que le fichier JSON pour l'exercice 4
 qui n'est plus disponible.
 
 ## Lancer les tests
