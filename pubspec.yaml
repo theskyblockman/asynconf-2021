@@ -1,0 +1,14 @@
+name: asynconf_2021
+description: "\"Correction\" de l'Asynconf 2021"
+version: 1.0.0
+repository: https://github.com/theskyblockman/asynconf-2021
+
+environment:
+  sdk: ^3.2.0-210.3.beta
+
+dependencies:
+  args: ^2.4.2
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
