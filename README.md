@@ -17,5 +17,5 @@ dart bin/asynconf_2021 run (1|2|3|4|5)
 
 ## Options
 - ``--help``: Affiche l'aide
-- ``--verbose``: Donne des information supplémentaires sur comment le script fonctionne
+- ``--verbose``: Donne des informations supplémentaires sur comment le script fonctionne
 - ``--version``: Donne la version du script
